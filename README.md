@@ -30,7 +30,7 @@ En el hipotetico caso que el entorno de desarrollo sea en una startup con un pre
 
 5. Configurar la variable de entorno para la API Key de Gemini:
     ```bash
-        setx GOOGLE_API_KEY "TU_API_KEY_AQUI"
+        setx API_KEY "TU_API_KEY_AQUI"
     ```
 
 6. Verificar si las dependencias se instalaron correctamente:
